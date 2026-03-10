@@ -1,6 +1,6 @@
 # SaaS Onboarding Funnel Analysis | Tableau Dashboard
 
-Tools: SQL, Excel, Tableau, Power BI
+Tools: SQL, Excel, Tableau
 Description: Analyzed a dataset of 8,460 registered users to map the onboarding funnel, identifying critical drop-off points between registration, trial start, and payment. Developed dashboards highlighting key metrics and trends, enabling the product team to implement targeted optimizations that increased trial-to-payment conversion by ~30%.
 # Project Overview
 - The dashboard analyzes the user journey from registration to trial start and first payment, measuring both absolute user counts and conversion rates at each stage.
