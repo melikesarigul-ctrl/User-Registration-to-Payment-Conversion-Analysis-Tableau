@@ -24,7 +24,7 @@ Description: Analyzed a dataset of 8,460 registered users to map the onboarding 
 - The average time from registration to payment rises over time, which suggests slower decision-making among later cohorts.
   
 # Tableau Dashboard
-- https://public.tableau.com/views/DASHBOARD6661/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- [https://public.tableau.com/views/DASHBOARD6661/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/FunnelAnalysis_17790966799420/Dashboard1?:language=en-
   
 # Conclusion
 - Most users drop off before starting a trial, but those who do are likely to convert, so improving onboarding could boost overall revenue.
